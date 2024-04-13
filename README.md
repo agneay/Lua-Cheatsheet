@@ -267,3 +267,20 @@ print(type(y)
 | \t              | tab space         |
 | \\\             | \                 |
 
+
+## String functions
+Some string functions are 
+```lua
+local name = "Agneay"
+print(String.upper(name))
+print(String.lower(name))
+print(String.len(name))
+```
+
+The String.upper() function will convert all the string letters to upper case and so is the case with String.lower() with the only difference being it will translate the string in lower case and String.len() will return the length of the string
+
+
+
+
+
+
